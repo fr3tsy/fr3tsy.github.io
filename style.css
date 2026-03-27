@@ -3,7 +3,7 @@
    "how to change link color." */
 
 body {
-  background-color: black;
-  color: white;
-  font-family: cursive;
+  background-color: #111111;
+  color: #FFFFFF;
+  font-family: sans-serif;
 }
